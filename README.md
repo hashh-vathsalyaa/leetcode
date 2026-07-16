@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0229-majority-element-ii) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
