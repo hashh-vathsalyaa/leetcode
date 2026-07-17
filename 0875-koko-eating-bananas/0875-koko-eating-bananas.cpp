@@ -4,15 +4,15 @@ public:
         int n = piles.size();
         int low = 1;
         int high= *max_element(piles.begin(), piles.end());
-        long long sum=0;
         while(low<=high)
         {
             int mid = (low+high)/2;
-            sum =0;
-            for(int i=0; i<n; i++)
+            long long sum =0;
+            for(int pile : piles)
             {
-                sum +=(piles[i]+mid-1)/mid;
+                sum +=(pile +mid-1)/mid;
             }
+
             if(sum <= h)
             {
                 high = mid-1;
