@@ -7,7 +7,7 @@ public:
         long long sum=0;
         while(low<=high)
         {
-            int mid = (low+high)/2;
+            long long mid = (low+high)/2;
             sum =0;
             for(int i=0; i<n; i++)
             {
