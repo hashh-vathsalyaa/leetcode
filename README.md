@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hashh-vathsalyaa/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/hashh-vathsalyaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hashh-vathsalyaa/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/hashh-vathsalyaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0125-valid-palindrome) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/hashh-vathsalyaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
