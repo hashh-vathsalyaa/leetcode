@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashh-vathsalyaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
