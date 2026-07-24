@@ -1,37 +1,24 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        int n = nums.size();
+       unordered_map<int,int> mp;
+       mp[0] = 1;
 
-        // Map to store frequency of prefix sums
-        unordered_map<int, int> prefixSumCount;
+       int sum = 0;
+       int count = 0;
 
-        // Initialize prefix sum and count of subarrays
-        int prefixSum = 0;
-        int count = 0;
+       for (int i = 0; i < nums.size(); i++) 
+       {
+            sum += nums[i];
 
-        // Base case: prefix sum 0 has occurred once
-        prefixSumCount[0] = 1;
-
-        // Traverse through the array
-        for (int i = 0; i < n; i++) {
-            // Add current element to prefix sum
-            prefixSum += nums[i];
-
-            // Calculate the prefix sum that needs to be removed
-            int remove = prefixSum - k;
-
-            // If this prefix sum has been seen before,
-            // add its count to the result
-            if (prefixSumCount.find(remove) != prefixSumCount.end()) {
-                count += prefixSumCount[remove];
+            if (mp.find(sum - k) != mp.end()) 
+            {
+                count += mp[sum - k];
             }
 
-            // Update the frequency of the current prefix sum
-            prefixSumCount[prefixSum]++;
+            mp[sum]++;
         }
 
-        // Return the total count of subarrays
         return count;
     }
 };
