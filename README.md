@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hashh-vathsalyaa/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0229-majority-element-ii) |
+| [0506-relative-ranks](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0506-relative-ranks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
