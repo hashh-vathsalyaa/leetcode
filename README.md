@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -79,17 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0506-relative-ranks) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,5 +231,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0506-relative-ranks) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
