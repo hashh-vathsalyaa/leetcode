@@ -7,7 +7,7 @@ public:
             pq.push(nums[i]);
         }
 
-        for(int i=1; i<k; i++)
+        for(int i=0; i<k-1; i++)
         {
             pq.pop();
         }
