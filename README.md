@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0695-max-area-of-island) |
 | [0875-koko-eating-bananas](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hashh-vathsalyaa/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashh-vathsalyaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0695-max-area-of-island) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -261,11 +263,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
@@ -274,4 +278,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
