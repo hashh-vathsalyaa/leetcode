@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0283-move-zeroes) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0547-number-of-provinces) |
@@ -257,13 +259,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
