@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0695-max-area-of-island) |
 | [0875-koko-eating-bananas](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0994-rotting-oranges) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hashh-vathsalyaa/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hashh-vathsalyaa/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hashh-vathsalyaa/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -282,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
