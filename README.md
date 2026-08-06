@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0733-flood-fill) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0733-flood-fill) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0994-rotting-oranges) |
