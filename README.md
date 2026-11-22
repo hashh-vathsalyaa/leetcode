@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hashh-vathsalyaa/leetcode/tree/master/0547-number-of-provinces) |
